@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-//include("connection.php");
+include("connection.php");
 //include("function.php");
 
 if(isset($_SESSION["stc"]))
